@@ -13,3 +13,5 @@ Golang, Assembly
 Meus ambientes. 
 
 VsCode, Linux, Discord
+
+![Homem letra](https://github.com/LostyIts/LostyIts/blob/main/walkingman_qoyxo21o.gif)
