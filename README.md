@@ -1,4 +1,4 @@
-# Lostyrose
+# Psykkka
 
 Seja bem vindo ao meu repositório!
 
